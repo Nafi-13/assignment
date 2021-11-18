@@ -1,0 +1,20 @@
+git => impt
+odd => code
+UML -> code-design
+Design Pattern
+
+task - 
+
+1.fork korte hobe android repository.(jekono app)
+2.clone korte hobe oita
+3.then run on android studio
+4.add a java class
+5.git add . korte hobe
+6.git commit
+7.git push
+8.branch create korbo..shekhane file add korbo..then oita commit and push
+9.conflict resolution
+10. merge branches
+
+
+85-111 lines 
